@@ -9,7 +9,7 @@ from string import ascii_lowercase
 import operator
 
 
-#Function definations
+#Function definitions
 
 def freqDist(text):
         #prepare a word frequency distribution of word in the text
